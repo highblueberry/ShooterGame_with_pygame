@@ -43,30 +43,36 @@ pip install random
     2. 플레이어 체력이 모두 차있을 때 플레이어 공격 강화
  ![물약](https://github.com/highblueberry/ShooterGame_with_pygame/assets/59508874/19ac422e-a5a4-4d76-bf06-0a125c6079ed)
 
-  
+<br/> <br/> <br/>
 
-* 공격은 발사수가 2개, 3개 순으로 강화됩니다. <br/>
+* 공격은 발사수가 2개, 3개 순으로 강화됩니다.
+<br/>  <br/>
+
 ![공격1](https://github.com/highblueberry/ShooterGame_with_pygame/assets/59508874/2bdd7db1-9aa6-4eac-b253-f9c8584acb63)
 ![공격2](https://github.com/highblueberry/ShooterGame_with_pygame/assets/59508874/1034170b-138d-4be6-980a-915d0373bfe7)
 ![공격3](https://github.com/highblueberry/ShooterGame_with_pygame/assets/59508874/9dc1e438-9012-4061-b49e-4ee5b040af04)
 
-
+ <br/> <br/> <br/>
 
 
 <br/> 적군의 종류는 3종류입니다.
 * 일반기
 * 대장기
 * 보스
-<br/>
 일반기와 대장기는 공격 패턴이 동일하지만 체력에서 차이가납니다.
-![일반기](https://github.com/highblueberry/ShooterGame_with_pygame/assets/59508874/e904dfd7-7b11-4f3d-b5e3-65b88481784a)
-![대장기](https://github.com/highblueberry/ShooterGame_with_pygame/assets/59508874/5414a678-7e0a-4a01-bbfa-c00aa760b63b)
-![보스](https://github.com/highblueberry/ShooterGame_with_pygame/assets/59508874/0cc8e90c-8056-4e58-b613-c5f8d640638e)
-<br/><br/>
+<br/>  <br/>
 
+![일반기](https://github.com/highblueberry/ShooterGame_with_pygame/assets/59508874/43d69872-55ea-4f82-9cfa-e29776be2819)
+![대장기](https://github.com/highblueberry/ShooterGame_with_pygame/assets/59508874/9cf6f739-1a98-4eae-ad9f-8aa642762da4)
+![보스](https://github.com/highblueberry/ShooterGame_with_pygame/assets/59508874/2b3877f4-d69e-4b1d-b7d8-66f98f569ea9)
+
+
+<br/><br/>
 적군을 20기 이상 격추시키면 보스가 등장합니다.<br/>
 보스는 일자로 탄을 발사하는 특수패턴으로 이루어져 있습니다. <br/>
-일자 탄이 어디로 날라올지는 확률이 동일한 랜덤으로 정해집니다.<br/>
+일자 탄이 어느 방향으로 올지는 랜덤으로 정해집니다.
+<br/>
+
 ![화면3](https://github.com/highblueberry/ShooterGame_with_pygame/assets/59508874/c32fe600-7348-4f6d-82fd-d5262529a369)
 
 
